@@ -1,20 +1,21 @@
 🚀 Installation
-On the main GitHub page for this repo, click the green Code button.
 
-Select Download ZIP.
+1. On the main GitHub page for this repo, click the green Code button.
 
-Find the downloaded .zip file on your computer and unzip it. (You can usually right-click and select "Extract All..."). This will create a new folder.
+2. Select Download ZIP.
 
-Open your browser (like Chrome, Brave, or Edge) and go to the extensions management page.
+3. Find the downloaded .zip file on your computer and unzip it. (You can usually right-click and select "Extract All..."). This will create a new folder.
 
-For Chrome/Brave: chrome://extensions
+4. Open your browser (like Chrome, Brave, or Edge) and go to the extensions management page.
+
+5. For Chrome/Brave: chrome://extensions
 
 For Edge: edge://extensions
 
-In the top-right corner, find the Developer mode toggle and turn it ON.
+6. In the top-right corner, find the Developer mode toggle and turn it ON.
 
-A new set of buttons will appear. Click the Load unpacked button.
+7. A new set of buttons will appear. Click the Load unpacked button.
 
-A file window will open. Select the entire folder that you just unzipped (the one containing manifest.json, not the .zip file itself).
+8. A file window will open. Select the entire folder that you just unzipped (the one containing manifest.json, not the .zip file itself).
 
-The extension is now installed! Enjoy your regular eye breaks.
+9. The extension is now installed! Enjoy your regular eye breaks.
