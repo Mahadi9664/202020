@@ -10,7 +10,7 @@
 
 5. For Chrome/Brave: chrome://extensions
 
-For Edge: edge://extensions
+   For Edge: edge://extensions
 
 6. In the top-right corner, find the Developer mode toggle and turn it ON.
 
